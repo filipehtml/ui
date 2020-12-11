@@ -1,0 +1,23 @@
+body {
+    background-image:linear-gradient(to bottom,rgb(183, 240, 250),rgb(183, 240, 250));
+}
+
+h1,h2 {
+    margin: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ 
+#cabeçalho {
+    background-color: rgb(135, 222, 200);
+    color: black;
+    text-align: center;
+    padding: 8px;
+    margin: 24px
+}
+foto img {
+text-align: center;
+width: 300px;
+height: 300px;
+}

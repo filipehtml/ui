@@ -1,0 +1,46 @@
+body {
+    background-image:linear-gradient(to bottom,rgb(183, 240, 250),rgb(183, 240, 250));
+}
+h1,h2,h3,p {
+    margin: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topico {
+    display: inline;
+   padding: 25px;
+}
+
+ul{
+    text-align: center;
+    background-color: rgba(182, 201, 252, 0.027);
+    font-family: Arial;
+    font-size:18px;
+    border: 13px solid rgb(182, 220, 252);
+    
+}
+ 
+#cabeçalho {
+    background-color: rgb(135, 222, 200);
+    color: black;
+    text-align: center;
+    padding: 8px;
+    margin: 24px
+}
+foto img {
+    text-align: center;
+width: 300px;
+height: 300px;
+}
+
+p{
+    text-align: center;
+    color: rgb(63, 62, 62);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+  }
+  a{
+      text-decoration:none;
+      color:rgb(62, 62, 63);
+     }
+  

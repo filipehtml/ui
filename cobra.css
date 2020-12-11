@@ -1,0 +1,24 @@
+body {
+    background-image:linear-gradient(to bottom,rgb(183, 240, 250),rgb(183, 240, 250));
+}
+ h1,h2,p {
+     margin: 9px; font-family: Arial, Helvetica, sans-serif;
+    
+ }
+  h1:houver{
+      letter-spacing: 10px;
+     
+  }
+ #cabeçalho {
+     background-color: rgb(135, 222, 189);
+     color: black;
+     text-align: center;
+     padding: 8px;
+ }
+ #foto img {
+    text-align: center;
+    width: 700px;
+    height: 360px;
+    }
+
+

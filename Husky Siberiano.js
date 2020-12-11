@@ -1,0 +1,1 @@
+alert("Dica para ter um Husky Sibiriano : Desde muito pequenininhos os huskies possuem um ar independente e podem se mostrar bem teimosos se não educados de maneira correta, mas quando socializados desde cedo, eles podem se tornar ótimos cães. A raça é bem enérgica e os filhotes possuem essa energia em dobro.")
